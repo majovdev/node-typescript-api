@@ -1,0 +1,20 @@
+{
+  "name": "typescript-api",
+  "version": "1.0.0",
+  "description": "API completa com Typescript, Jest, TDD, Github... [Código atualizado 2022]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majovdev/node-typescript-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majovdev/node-typescript-api/issues"
+  },
+  "homepage": "https://github.com/majovdev/node-typescript-api#readme"
+}
